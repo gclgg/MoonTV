@@ -1,28 +1,39 @@
 {
   "cache_time": 7200,
   "api_site": {
-   "uhd4k": {
-      "api": "https://api.4kuhd.tv/api.php/provide/vod",
-      "name": "4K超清影院",
-      "detail": "https://4kuhd.tv",
-      "resolution": "4K"
+    "dyttzy_1080p": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/json/1080p",
+      "name": "电影天堂1080P",
+      "detail": "http://caiji.dyttzyapi.com"
     },
-    "blueray": {
-      "api": "https://bluerayapi.com/api.php/provide/vod",
-      "name": "蓝光高清",
-      "resolution": "1080p/4K"
+    "heimuer_1080p": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/at/json/1080p",
+      "name": "黑木耳1080P",
+      "detail": "https://heimuer.tv"
     },
-    "hdrzy": {
-      "api": "https://hdrzyapi.net/api.php/provide/vod",
-      "name": "HDR高帧率",
-      "resolution": "1080p/4K/HDR"
+    "bfzy_1080p": {
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/json/1080p",
+      "name": "暴风1080P资源"
     },
-    "remux": {
-      "api": "https://remuxapi.com/api.php/provide/vod",
-      "name": "原盘REMUX",
-      "resolution": "1080p/4K Remux"
+    "ffzy_1080p": {
+      "api": "http://ffzy5.tv/api.php/provide/vod/at/json/1080p",
+      "name": "非凡影视1080P",
+      "detail": "http://ffzy5.tv"
     },
-     "dyttzy": {
+    "zy360_1080p": {
+      "api": "https://360zy.com/api.php/provide/vod/at/json/1080p",
+      "name": "360资源1080P"
+    },
+    "wolong_1080p": {
+      "api": "https://wolongzyw.com/api.php/provide/vod/at/json/1080p",
+      "name": "卧龙1080P资源"
+    },
+    "jisu_1080p": {
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json/1080p",
+      "name": "极速1080P资源",
+      "detail": "https://jszyapi.com"
+    },
+    "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
