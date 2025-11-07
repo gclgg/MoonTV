@@ -1,7 +1,28 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "dyttzy": {
+   "uhd4k": {
+      "api": "https://api.4kuhd.tv/api.php/provide/vod",
+      "name": "4K超清影院",
+      "detail": "https://4kuhd.tv",
+      "resolution": "4K"
+    },
+    "blueray": {
+      "api": "https://bluerayapi.com/api.php/provide/vod",
+      "name": "蓝光高清",
+      "resolution": "1080p/4K"
+    },
+    "hdrzy": {
+      "api": "https://hdrzyapi.net/api.php/provide/vod",
+      "name": "HDR高帧率",
+      "resolution": "1080p/4K/HDR"
+    },
+    "remux": {
+      "api": "https://remuxapi.com/api.php/provide/vod",
+      "name": "原盘REMUX",
+      "resolution": "1080p/4K Remux"
+    },
+     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
